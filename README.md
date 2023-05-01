@@ -17,7 +17,7 @@ Author of: **[UNGram](https://github.com/cskartikey/ungram)** and **[Book Club B
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about **Web Development** and **Android Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/cskartikey), [Instagram](https://instagram.com/cskartikey) and [LinkedIn](https://www.linkedin.com/in/kartikey-chauhan-894a87271/)**
+  **[Instagram](https://instagram.com/cskartikey) and [LinkedIn](https://www.linkedin.com/in/kartikey-chauhan-894a87271/)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskartikey&layout=compact&theme=dark&hide_border=true)
 
